@@ -1,0 +1,1 @@
+This will be a simple app for converting CSV files to JSON type for easier understanding.
